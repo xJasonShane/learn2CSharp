@@ -2,7 +2,7 @@
 个人用于跟进从零基础开始学习C#编程语言的代码仓库，不对仓库代码的时效性、准确性、实用性进行维护和负责。
 
 # 代码保存结构
-本仓库代码以[刘铁猛](https://www.bilibili.com/video/BV13b411b7Ht/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=17c1efd25bd11d6a1de01ceb69c4c034)老师的程序教学内容为基础，代码文件命名规则如下：  
+本仓库代码以万门大学的程序教学内容为基础，代码文件命名规则如下：  
 AAA-TTT-NNN.cs  
 其中：  
 AAA：代表课程章节排序号  
